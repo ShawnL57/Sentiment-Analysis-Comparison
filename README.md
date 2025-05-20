@@ -18,7 +18,6 @@
 - [Interpretations](#interpretations)
 - [Extending the Work](#extending-the-work)
 - [Dataset](#dataset)
-- [License](#license)
 
 ---
 
@@ -136,6 +135,3 @@ The sample `reviews.csv` is a subset of the **Amazon Fine Food Reviews** c
 
 ---
 
-## License
-
-MIT © 2025 Shawn Lin — see [LICENSE](LICENSE).
